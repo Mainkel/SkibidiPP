@@ -1,3 +1,2 @@
 loadstring(game:HttpGet("https://paste.ee/r/EHD2I8Ya/0", true))()
-    wait(2.5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Mainkel/Another1/refs/heads/main/PP-Script", true))()
